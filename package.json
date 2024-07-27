@@ -1,0 +1,14 @@
+{
+  "name": "profesnionalbackend",
+  "version": "1.0.0",
+  "description": "professionalbackend",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "abhisekh",
+  "license": "ISC"
+}
